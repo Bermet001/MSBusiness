@@ -2185,7 +2185,7 @@ input[type="radio"]:checked ~ label::before {
 }
 
 .bg-color2 {
-  /* background-color: #fffaf3; */
+  background-color: #ffff;
 }
 
 .bg-title {
@@ -6519,7 +6519,7 @@ input.main-search-input::placeholder {
 }
 
 .footer-section.style2 {
-  /* background: #fffaf3; */
+  background: #ffff;
 }
 
 /* 15.Intro */
@@ -7017,7 +7017,7 @@ input.main-search-input::placeholder {
   width: 100%;
 }
 .about.style2 {
-  background: #f5f1ea;
+  background: #ffff;
   margin: -71px 0 0 0px;
   padding: 120px 0 125px 0;
   border-radius: 40px;
@@ -9377,7 +9377,7 @@ input.main-search-input::placeholder {
 }
 .service-details .service-details-info {
   border-radius: 20px;
-  /* background: #fffaf3; */
+  background: #ffff;
   padding: 20px 30px 30px 30px;
 }
 .service-details .service-details-info .content-heading h2 {
@@ -9530,7 +9530,7 @@ input.main-search-input::placeholder {
 .service-details .service-details-news .service-details-content .card {
   border-radius: 20px;
   border: 2px solid #ccc;
-  /* background: #fffaf3; */
+  background: #ffff;
   padding: 38px;
   width: 630px;
   height: 386px;
@@ -10439,7 +10439,7 @@ input.main-search-input::placeholder {
 
 /* 29.features */
 .features {
-  background: #fffaf3;
+  background: #ffff;
   padding: 120px 0 114px 0;
 }
 .features .features-thumb {
