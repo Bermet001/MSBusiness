@@ -2719,7 +2719,7 @@ input[type="radio"]:checked ~ label::before {
 }
 .section-title.style2 .title span {
   text-decoration: underline;
-  text-decoration-color: red;
+  text-decoration-color: #10246e;
   text-underline-offset: 5px;
 }
 .section-title.style2 p {
