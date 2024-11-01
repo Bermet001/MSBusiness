@@ -52,11 +52,12 @@ Description: ITek - IT Services & Digital Agency Figma Template <
 ----------------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Syne:wght@400;500;600;700;800&display=swap");
 :root {
-  --body: #fffaf3;
+  /* --body: #ffffff; */
   --black: #000;
   --white: #fff;
   --theme: #10246e;
-  --theme2: #f5f1ea;
+  --theme2: #ffffffcc;
+  /* --theme2: #f5f1ea; */
   --theme3: #a69f87;
   --title: #282c32;
   --orange: #476da3;
@@ -104,7 +105,7 @@ body {
   font-weight: normal;
   line-height: 28px;
   color: var(--text);
-  background-color: var(--body);
+  /* background-color: var(--body); */
   padding: 0;
   margin: 0;
   overflow-x: hidden;
@@ -2185,7 +2186,7 @@ input[type="radio"]:checked ~ label::before {
 }
 
 .bg-color2 {
-  background-color: #fffaf3;
+  /* background-color: #fffaf3; */
 }
 
 .bg-title {
@@ -6519,7 +6520,7 @@ input.main-search-input::placeholder {
 }
 
 .footer-section.style2 {
-  background: #fffaf3;
+  /* background: #fffaf3; */
 }
 
 /* 15.Intro */
@@ -6787,7 +6788,7 @@ input.main-search-input::placeholder {
 .intro-section .intro-container-wrapper.style2 {
   padding: 207px 0 100px 0;
   border-radius: 0px 0px 40px 40px;
-  background: #fffaf3;
+  /* background: #fffaf3; */
 }
 @media (max-width: 991px) {
   .intro-section .intro-container-wrapper.style2 {
@@ -7017,7 +7018,7 @@ input.main-search-input::placeholder {
   width: 100%;
 }
 .about.style2 {
-  background: #f5f1ea;
+  /* background: #f5f1ea; */
   margin: -71px 0 0 0px;
   padding: 120px 0 125px 0;
   border-radius: 40px;
@@ -9377,7 +9378,7 @@ input.main-search-input::placeholder {
 }
 .service-details .service-details-info {
   border-radius: 20px;
-  background: #fffaf3;
+  /* background: #fffaf3; */
   padding: 20px 30px 30px 30px;
 }
 .service-details .service-details-info .content-heading h2 {
@@ -9530,7 +9531,7 @@ input.main-search-input::placeholder {
 .service-details .service-details-news .service-details-content .card {
   border-radius: 20px;
   border: 2px solid #ccc;
-  background: #fffaf3;
+  /* background: #fffaf3; */
   padding: 38px;
   width: 630px;
   height: 386px;
@@ -10439,7 +10440,7 @@ input.main-search-input::placeholder {
 
 /* 29.features */
 .features {
-  background: #fffaf3;
+  /* background: #fffaf3; */
   padding: 120px 0 114px 0;
 }
 .features .features-thumb {
