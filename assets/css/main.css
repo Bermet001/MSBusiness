@@ -489,7 +489,7 @@ input[type="radio"]:checked ~ label::before {
   font-style: normal;
   font-weight: 500;
   line-height: 22.5px;
-  background: var(--title);
+  background: #223165;
   border-radius: 20px;
   border: 1px solid var(--title);
   padding: 20px 20px;
@@ -2506,6 +2506,7 @@ input[type="radio"]:checked ~ label::before {
 .preloader .animation-preloader .txt-loading .letters-loading {
   color: var(--theme);
   position: relative;
+  font-family: "Phenomena";
 }
 .preloader
   .animation-preloader
@@ -5447,7 +5448,7 @@ input.main-search-input::placeholder {
   }
 }
 .sticky.header-1 .theme-btn {
-  background: var(--title);
+  background: #223165;
   color: var(--white);
 }
 .sticky.header-2 {
@@ -5989,7 +5990,7 @@ input.main-search-input::placeholder {
 
 .footer-widgets-wrapper {
   border-radius: 40px 40px 0px 0px;
-  background-color: #0c0c0c;
+  background-color: #10246e;
   padding: 50px 0 60px;
   position: relative;
   z-index: 9;
@@ -6333,7 +6334,7 @@ input.main-search-input::placeholder {
 .footer-bottom {
   position: relative;
   z-index: 3;
-  background: #0c0c0c;
+  background: #10246e;
 }
 .footer-bottom.style1 {
   background: rgba(255, 255, 255, 0.05);
@@ -10498,7 +10499,7 @@ input.main-search-input::placeholder {
   white-space: nowrap;
   display: flex;
   gap: 20px;
-  background-color: var(--bg-1);
+  background-color: #10246e;
   padding: 140px 0 121px 0;
   position: relative;
   z-index: -1;
@@ -10577,8 +10578,9 @@ input.main-search-input::placeholder {
 .gallery-section {
   padding: 120px 0;
   border-radius: 40px;
-  background: var(--text);
+  background: #10246e;
 }
+
 .gallery-section .section-title {
   max-width: 750px;
   margin-bottom: 40px;
@@ -10588,9 +10590,9 @@ input.main-search-input::placeholder {
 }
 .gallery-section .accordion .accordion-item {
   border-radius: 20px;
-  background: #181818;
+  background: #1c2e6e;
   margin-bottom: 30px;
-  border: 3px solid var(--text);
+  border: 3px solid #15286e;
 }
 .gallery-section .accordion .accordion-item .accordion-header {
   padding: 40px 41px;
@@ -10634,7 +10636,7 @@ input.main-search-input::placeholder {
   .accordion-header
   .btn-wrapper
   .theme-btn {
-  background-color: transparent;
+  background-color: #1c2e6e;
   border-radius: 20px;
   border: 1px solid var(--white);
 }
@@ -10647,7 +10649,7 @@ input.main-search-input::placeholder {
   display: none;
   padding: 0 60px 50px 0;
   border-radius: 20px;
-  background: #181818;
+  background: #1c2e6e;
   text-align: end;
 }
 @media (max-width: 991px) {
