@@ -5504,7 +5504,7 @@ input.main-search-input::placeholder {
 
 .offcanvas__info {
   background: var(--title) none repeat scroll 0 0;
-  border-left: 2px solid var(--theme);
+  border-left: 2px solid var(--title);
   position: fixed;
   right: 0;
   top: 0;
