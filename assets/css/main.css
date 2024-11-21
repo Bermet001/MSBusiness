@@ -6918,6 +6918,12 @@ input.main-search-input::placeholder {
     margin: 0 57px 10px 0;
   }
 }
+@media (max-width: 767px) {
+  .content-shape-2 {
+    width: 100% !important;
+  }
+}
+
 @media (max-width: 470px) {
   .intro-section
     .intro-container-wrapper.style2
@@ -6925,6 +6931,10 @@ input.main-search-input::placeholder {
     .intro-content-thumb
     .content-shape-2 {
     margin: 0 30px 10px 0;
+  }
+
+  .content-shape-2 {
+    width: 100% !important;
   }
 }
 
