@@ -263,17 +263,17 @@ JS TABLE OF CONTENTS
     /*-----------------------------------
            09. Back to top    
         -----------------------------------*/
-    $(window).scroll(function () {
-      if ($(this).scrollTop() > 20) {
-        $("#back-top").addClass("show");
-      } else {
-        $("#back-top").removeClass("show");
-      }
-    });
-    $("#back-top").click(function () {
-      $("html, body").animate({ scrollTop: 0 }, 800);
-      return false;
-    });
+    // $(window).scroll(function () {
+    //   if ($(this).scrollTop() > 20) {
+    //     $("#back-top").addClass("show");
+    //   } else {
+    //     $("#back-top").removeClass("show");
+    //   }
+    // });
+    // $("#back-top").click(function () {
+    //   $("html, body").animate({ scrollTop: 0 }, 800);
+    //   return false;
+    // });
 
     /*-----------------------------------
             10. MagnificPopup  view    
